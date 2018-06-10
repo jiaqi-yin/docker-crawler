@@ -12,7 +12,7 @@ The project simply builds a web crawler to check and find broken webpages across
 
 ## Acceptance Criteria
 
-- All the customer-facing webpages in the website can be easily located and tested.
+- All the public facing webpages in the website can be easily located and tested.
 - Any error pages should be logged for further follow-ups.
 
 # Getting Started
