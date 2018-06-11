@@ -17,6 +17,10 @@ The project simply builds a web crawler to check and find broken webpages across
 
 # Getting Started
 
+## Add URLs for crawling
+
+In the spider class (e.g: ./mycrawler/spiders/pageavailability.py), replace the `example.com` URL with a real one for crawling.
+
 ## Install and Run
 
 > This project is tested in MacOS ONLY.
